@@ -1,4 +1,4 @@
-# Orgelman Fundamental Scripts (OFS)
+# ArcWind AB
 [![Latest Stable Version](https://poser.pugx.org/arcwindab/arcwindab/v/stable.svg)](https://packagist.org/packages/arcwindab/arcwindab)
 [![Latest Unstable Version](https://poser.pugx.org/arcwindab/arcwindab/v/unstable.svg)](https://packagist.org/packages/arcwindab/arcwindab)
 
