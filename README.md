@@ -1,10 +1,4 @@
 # ArcWind AB
-[![Latest Stable Version](https://poser.pugx.org/arcwindab/arcwindab/v/stable.svg)](https://packagist.org/packages/arcwindab/arcwindab)
-[![Latest Unstable Version](https://poser.pugx.org/arcwindab/arcwindab/v/unstable.svg)](https://packagist.org/packages/arcwindab/arcwindab)
-
-[![Total Downloads](https://poser.pugx.org/arcwindab/arcwindab/downloads)](https://packagist.org/packages/arcwindab/arcwindab)
-[![License](https://poser.pugx.org/arcwindab/arcwindab/license.svg)](https://packagist.org/packages/arcwindab/arcwindab)
-
 ## Disclaimer
 In the words of Abraham Lincoln:
 > Pardon my French
